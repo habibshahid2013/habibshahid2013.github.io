@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>
+<body>
+  <div> 
+  <h1> Hassan Shahid </h1>
+  <p> Self driven, Network Egineer looking to diversify his knowledge in engineering and learn API coding. 
+  </p>
+  </div>
+  
+  <div class="exp-header">
+    <h3>Professional exprience</h3>
+  </div>
+  
+  <div>
+    <h4> Sleep Number HQ </h3>
+    <h5> Network Engineer (Contarctor) </h5>
+    <h6> March 2020 - Janurary 2021 </h6> 
+    
+    <ul>
+      <li> The primary assignment was getting the ACI Fabric more up to date with the production environment.  </li> 
+      <li> Collapsing the current ACI environment. Adding the new Constructs to match the production environment. From there we planned out dates to execute the changes needed. We started by decommissioning the 7k's which had all the servers, Databases, Firewalls, Etc. </li> 
+      <li> Worked extensively with creating visio diagrams on existing legacy networks and identifying gaps from standards that needed to be resolved </li> 
+      <li> Created change control documentation and submitted for approvals including creating detailed MOPs for peer review prior to implementation </li> 
+      <li> Utilized SNMP and Netflow based probes in PRTG to monitor utilization across various data centers located across the country and created a remediation list of circuits that needed to be re-sized  </li> 
+      <li> Configured Nexus 5k, Nexus 7k and Arista switches in order to standardize them according to the new regional data center design </li> 
+      <li> Administer and troubleshoot Cisco ASA firewalls, Load Balancers (F5, A10), Nexus Switches (5k,7k)</li> 
+    </ul>
+  </div>
+  <div>
+    <h4> Transcend IT </h3>
+    <h5> Network Engineer (Contarctor) </h5>
+    <h6> June 2019 - Feb 2020 </h6> 
+    
+    <ul>
+      <li> Implemented small to medium sized site tech refreshes where I replaced the legacy WAN routers with newer 4300 series ISRs and Core switches with newer 3850 series Core switches and Access switches </li> 
+      <li> Implemented access switches which were Layer 2 with a data and voice vlan for each IDF to create a more stable spanning tree environment.  </li> 
+      <li> Redistributed BGP into OSPF along with default-information originate to propagate the BGP routes into OSPF as E2 routes.  </li> 
+      <li> Very comfortable with all the standard troubleshooting steps for OSPF, EIGRP and BGP such as sh ip bgp sum, sh ip bgp neigh x advertised-routes, sh ip ospf neigh, doing extended pings to stress test links etc. </li> 
+      <li> Implemented Nexus 7K VDCs, VPCs to Nexus 5Ks and FEX 2248s in the top of rack for server connectivity </li> 
+      <li> Added basics VIPs, pools, auto map, http health checks, custom health checks on F5 virtual edition load balancers </li> 
+      <li> Created basic vSwitching within vCenter and assigned proper vlans to various VMs as needed by customers</li> 
+    </ul>
+  </div>
+  
+  <div>
+    <h4> University of Minnesota (School of dentistry) </h3>
+    <h5> Excutive Adminastartor </h5>
+    <h6> August 2018 - April 2019 </h6> 
+    
+    <ul>
+      <li> Handles all front desk operations for the Office of Student Affairs and Residential life  </li> 
+      <li> Partner with student affairs staff to communicate and monitor School of Dentistry student compliance
+      with Academic Health Center and Minnesota background study requirements. 
+ </li> 
+      <li> Explain complex policies and procedures to a wide range of audiences  </li> 
+      <li> Communicate with student leaders and AHC facilities to make room arrangements and ensure student
+      group compliance with University and School policies; refer to the Director as needed 
+ </li> 
+      <li> Independently coordinate student group gift processing and reimbursement .  </li> 
+      <li> Establish processes with the office’s Student Support Services Associate to approve job postings in 
+      GoldPASS and in support of various student absence approval requirements.  
+ </li> 
+      <li> pport the Student Support Services Associate and Director in identifying opportunities to improve 
+     communications with students. 
+ </li> 
+    </ul>
+  </div>
+  
+  <div class="exp-header">
+    <h3>Education</h3>
+  </div>
+  
+ <div>
+    <h5> Network Engineering Boot Camp Program </h5>
+    <h6> Transcend IT, Saint Paul MN - Completed August 2019</h6>
+  </div>
+  
+  <div>
+    <h5> Bachelor of Art- Afro Studies and Social Work </h5>
+    <h6> University of Minnesota, Minneapolis MN - Completed June 2013</h6>
+  </div>
+  
+</body>
+</html> 
